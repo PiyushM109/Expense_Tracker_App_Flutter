@@ -30,6 +30,9 @@ intl: ^0.17.0
 <br>
 flutter_launcher_icons: ^0.9.2
 <br>
+fl_chart: ^0.60.0
+<br>
+hive: ^2.2.3
 
 
 
